@@ -1,0 +1,15 @@
+{
+  "name": "binance-p2p-rate-listener",
+  "version": "1.0.0",
+  "description": "Listen for P2P exchange rates on Binance.com",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Josh",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^21.2.0"
+  }
+}
